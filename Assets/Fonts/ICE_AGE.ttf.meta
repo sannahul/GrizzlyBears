@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 31ff05859b3d639418746fb04309ba84
+timeCreated: 1490537792
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ice age font
+  fontNames:
+  - ice age font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
